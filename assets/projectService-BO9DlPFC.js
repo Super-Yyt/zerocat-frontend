@@ -1,0 +1,1 @@
+import{Y as t}from"./index-DIApue2f.js";function a(){return t.get("https://www.dev5.me/proxy/featured")}function c(e,r,o,s){return t.get(`https://www.dev5.me/projects/explore/projects?mode=${e}&q=${r}&offset=${o*16-16}&limit=${s}&language=zh-cn`)}function p(e){return t.get(`https://www.dev5.me/projects/${e}`)}export{p as a,c as e,a as g};
